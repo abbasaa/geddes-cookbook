@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Geddes Cookbook`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Geddes`,
+      summary: `students @ umich ann arbor`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Basic blog compiling all the recipes Geddes cooks.`,
+    siteUrl: `https://abbasaa.github.io/geddes-cookbook/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `claymaks`,
     },
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Geddes Cookbook`,
+        short_name: `cookbook`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
