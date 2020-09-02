@@ -15,9 +15,9 @@ description: "Time: 30 min"
 
 ## Ingredients
 
-* 3 Ib lean ground beef
+* 3 lb lean ground beef
 * 9 garlic cloves minced or 3 tbsp minced garlic
-* 6-9 Tbsp brown sugar
+* 6-9 tbsp brown sugar
 * 3/4 cup soy sauce reduced sodium
 * 6 tsp sesame oil
 * 3/4 tsp ground ginger
