@@ -1,6 +1,6 @@
 ---
 title: Pan-Roasted Chicken and Vegetables
-date: "2020-09-02T12:21:40.982499f"
+date: "2020-09-02T12:21:40.982499"
 description: "Time: 60 min"
 ---
 
